@@ -32,6 +32,10 @@ mvn clean install
 mvn package
 ```
 
+### Documentação da API
+
+Para verificar a documentação de utilização da API basta acessar a url http://localhost:8080/swagger-ui.html após a aplicação estar no ar.
+
 Com isso será gerado o arquivo *.jar* que poderá ser executado para rodar a aplicação.
 
 ## Autor
